@@ -16,4 +16,5 @@ Now exhibited in M17 contemporary art centre in Kyiv.
 
 - ![#ffffff](https://placehold.it/15/f03c15/000000?text=+) Features: `(teleport, grab, flashlight usage, sounds, animation)'
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/dwxfbSobQZc?t=9)](https://www.youtube.com/watch?v=dwxfbSobQZc&t=188s)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dwxfbSobQZc/0.jpg)](https://www.youtube.com/watch?v=dwxfbSobQZc&t=188s)
+
