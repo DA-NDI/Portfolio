@@ -62,7 +62,7 @@ collaboration with artists, they are:
 
 - ![#ffffff](https://placehold.it/15/f03c15/000000?text=+) Features: (ue4, sounds, collision, environment)
 
-[![IMAGE ALT TEXT HERE](https://static.tildacdn.com/tild3534-3866-4830-a137-636466336464/____.jpg)
+[![IMAGE ALT TEXT HERE](https://drive.google.com/open?id=1HQ9-RLLw1yxnfhqn6Fl-ETwWHQkp1GY2)
 
 ## Острів Ї (Ostriv Yi)
 
