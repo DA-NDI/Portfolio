@@ -36,7 +36,7 @@ It is art and technology, mixed together.
 
 ### Wasteless VR
 
-Project was done at Sensorama Lab Academy in Kyiv, Ukraine.
+Project was done in Unity at Sensorama Lab Academy in Kyiv (course from Lenovo), Ukraine.
 
 (my team consisted of three people)
 
@@ -44,7 +44,30 @@ Less is more. Less waste is more life. It is an educational project on sorting w
 
 was designed to use in schools, universities, etc.
 
+- ![#ffffff](https://placehold.it/15/f03c15/000000?text=+) Features: (unity, climbing, grabbing, trackpad movement, info, two levels)
+
 [github repo and info](https://github.com/DA-NDI/WasteLessVR "Wasteless")
 
 [![IMAGE ALT TEXT HERE](https://github.com/DA-NDI/WasteLessVR/raw/master/screenshots/2.jpeg)
 
+### Frontier projects
+
+In therms of VR/AR art festival "Frontier" i created few experiences in
+
+collaboration with artists, they are:
+
+## Echo
+
+[info](https://www.frontierfest.com.ua/zvuk/ "Echo")
+
+- ![#ffffff](https://placehold.it/15/f03c15/000000?text=+) Features: (ue4, sounds, collision, environment)
+
+[![IMAGE ALT TEXT HERE](https://static.tildacdn.com/tild3534-3866-4830-a137-636466336464/____.jpg)
+
+## Острів Ї (Ostriv Yi)
+
+[info](http://m17.kiev.ua/newmonuments#!/tproduct/130916224-1497456130776 "Ostriv Yi")
+
+- ![#ffffff](https://placehold.it/15/f03c15/000000?text=+) Features: (ue4, vizualization of idea)
+
+[![IMAGE ALT TEXT HERE](https://static.tildacdn.com/tild3236-6633-4337-b931-363035643538/_Frontier_New_monume.jpg
