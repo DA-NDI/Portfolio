@@ -7,4 +7,4 @@ Interactive application for touch table, made in Unreal Engine 4
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WoNcib2gGJE/0.jpg)](https://www.youtube.com/watch?v=WoNcib2gGJE)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WoNcib2gGJE/0.jpg)](https://www.youtube.com/watch?v=dwxfbSobQZc&t=188s)
+[![IMAGE ALT TEXT HERE](https://youtu.be/dwxfbSobQZc?t=9)](https://www.youtube.com/watch?v=dwxfbSobQZc&t=188s)
