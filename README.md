@@ -62,8 +62,7 @@ collaboration with artists, they are:
 
 - ![#ffffff](https://placehold.it/15/f03c15/000000?text=+) Features: (ue4, sounds, collision, environment)
 
-[![IMAGE ALT TEXT HERE](http://googledrive.com/host/1HQ9-RLLw1yxnfhqn6Fl-ETwWHQkp1GY2)
-
+[![IMAGE ALT TEXT HERE](http://googledrive.com/host/1EKiPN_bDPOV_GzCr7WXVXgID1zyZT0Ls/echogramma.jpg)
 
 ## Острів Ї (Ostriv Yi)
 
