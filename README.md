@@ -33,3 +33,18 @@ It is art and technology, mixed together.
 - ![#ffffff](https://placehold.it/15/f03c15/000000?text=+) Features: (teleport, sounds, animated objects, interaction)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BxhUh1te83g/0.jpg)](https://youtu.be/BxhUh1te83g)
+
+### Wasteless VR
+
+Project was done at Sensorama Lab Academy in Kyiv, Ukraine.
+
+(my team consisted of three people)
+
+Less is more. Less waste is more life. It is an educational project on sorting waste,
+
+was designed to use in schools, universities, etc.
+
+[github repo and info](https://github.com/DA-NDI/WasteLessVR "Wasteless")
+
+[![IMAGE ALT TEXT HERE](https://github.com/DA-NDI/WasteLessVR/raw/master/screenshots/2.jpeg)
+
