@@ -9,7 +9,7 @@
 
 ### X City
 Immersive experience in VR. Made at Frontier Fest hackathon, Ukraine.
-[view more detailed info] (https://www.frontierfest.com.ua/misto-x/ "X city")
+[view more detailed info](https://www.frontierfest.com.ua/misto-x/ "X city")
 It is an artist interpretation of Kharkiv city. Usually you can't see paranormal
 and anomalous activities, but they do exist in our life and all our surroundings.
 Now exhibited in M17 contemporary art centre in Kyiv.
