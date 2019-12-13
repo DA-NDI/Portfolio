@@ -70,4 +70,4 @@ collaboration with artists, they are:
 
 - ![#ffffff](https://placehold.it/15/f03c15/000000?text=+) Features: (ue4, vizualization of idea)
 
-[![IMAGE ALT TEXT HERE](https://static.tildacdn.com/tild3236-6633-4337-b931-363035643538/_Frontier_New_monume.jpg
+[![IMAGE ALT TEXT HERE](https://static.tildacdn.com/tild3236-6633-4337-b931-363035643538/_Frontier_New_monume.jpg)
