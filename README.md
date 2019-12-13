@@ -14,9 +14,22 @@ It is an artist interpretation of Kharkiv city. Usually you can't see paranormal
 and anomalous activities, but they do exist in our life and all our surroundings.
 Now exhibited in M17 contemporary art centre in Kyiv.
 
-(UE4, works with oculus, htc vive and windows mixed realuty headsets).
+(UE4, works with oculus, htc vive and windows mixed reality headsets).
 
-- ![#ffffff](https://placehold.it/15/f03c15/000000?text=+) Features: `(teleport, grab, flashlight usage, sounds, animation)'
+- ![#ffffff](https://placehold.it/15/f03c15/000000?text=+) Features: (teleport, grab, flashlight usage, sounds, animation)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dwxfbSobQZc/0.jpg)](https://www.youtube.com/watch?v=dwxfbSobQZc&t=188s)
 
+### Живе місто (Live city)
+
+Kyiv is the capital of Ukraine, but also much more than that. In the end you will find
+
+something. That project shows	city from an unusual perspective. You will find existing objects
+
+and architecture, but transformed to reveal its hidden sense and feelings of a city dweller.
+
+It is art and technology, mixed together.
+
+- ![#ffffff](https://placehold.it/15/f03c15/000000?text=+) Features: (teleport, sounds, animated objects, interaction)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BxhUh1te83g/0.jpg)](https://youtu.be/BxhUh1te83g)
